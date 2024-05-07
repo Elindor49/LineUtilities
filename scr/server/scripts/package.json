@@ -1,0 +1,4 @@
+"scripts": {
+  "deploy": "npm run build && npm run save-json-api && gh-pages -d build"
+}
+"homepage": "https://elindor49.github.io/LineUtilities/",
